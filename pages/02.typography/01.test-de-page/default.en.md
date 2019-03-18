@@ -1,5 +1,5 @@
 ---
-title: 'Test de page'
+title: 'Page test'
 taxonomy:
     tag:
         - PIM
